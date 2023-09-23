@@ -64,12 +64,7 @@ We have calculated the performance by calculating Precision, Recall , True posit
 
 [Describe the data used in your project. Mention the source, size, and any preprocessing steps if applicable.]
 
-## Installation
 
-[Provide instructions on how to install any dependencies required for your project.]
-
-```bash
-pip install -r requirements.txt
 
 # Adult Census Income Prediction
 
