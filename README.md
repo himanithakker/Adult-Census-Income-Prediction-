@@ -40,3 +40,35 @@ Logistic Regression
 Naive Bayes
 PERFORMANCE EVALUATION
 We have calculated the performance by calculating Precision, Recall , True positive/negative for all the models and built a Confusion Matrix for the same.
+
+# Project Name
+
+[Project Description]
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Methods](#methods)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+
+[Provide a brief overview of your project, including its goals and objectives.]
+
+## Data
+
+[Describe the data used in your project. Mention the source, size, and any preprocessing steps if applicable.]
+
+## Installation
+
+[Provide instructions on how to install any dependencies required for your project.]
+
+```bash
+pip install -r requirements.txt
+
+
